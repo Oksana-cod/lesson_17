@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="config_logger.config" />
+          <option value="bp_posts.dao.post_dao.get_all" />
+          <option value="bp_posts.dao.post_dao.*" />
+          <option value="bp_posts.dao.comment_dao.get_comments_by_post_pk" />
+          <option value="bp_posts.dao.CommentDAO" />
+          <option value="bp_posts.dao.comment_dao._load_comments" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
